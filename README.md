@@ -1,4 +1,4 @@
-## Hi there 👋
+Karma: 15
 
 <!--
 **madeline-celeste/madeline-celeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
