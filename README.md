@@ -1,3 +1,5 @@
+not a maintainer, but a damn good larper
+
 Karma: `39` (6/12/2026)
 
 <!--
