@@ -1,4 +1,4 @@
-not a maintainer , but a damn good larper
+no longer larping
 
 Karma: `39` (6/12/2026)
 
