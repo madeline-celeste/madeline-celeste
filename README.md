@@ -1,5 +1,9 @@
 no longer larping
 
+Maintainer for goobstation
+
+i also take bounties
+
 virtually all of my code may be relicensed to anything that still accredits me, at request. @ me
 
 Karma: `39` (6/12/2026)
