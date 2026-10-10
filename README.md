@@ -1,5 +1,7 @@
 no longer larping
 
+virtually all of my code may be relicensed to any licensing that still accredits me, at request. @ me
+
 Karma: `39` (6/12/2026)
 
 <!--
